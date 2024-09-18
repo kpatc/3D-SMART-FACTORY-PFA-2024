@@ -1,7 +1,7 @@
 # 3D-SMART-FACTORY-PFA-2024
 ## Description
 
-Ce dépôt contient deux modèles de segmentation 3D : 3DUnet et 3DUnetKAN, développés pour la segmentation des tissus cérébraux en utilisant des réseaux de type Kolmogorov-Arnold (KAN) et les technologies U-Net. Ces modèles ont été conçus pour améliorer la précision de la segmentation en tirant parti des architectures avancées en apprentissage profond.
+Ce dépôt contient deux modèles de segmentation 3D : 3DUnet et 3DUnetKAN, développés pour la segmentation des tissus cérébraux en utilisant des réseaux de type Kolmogorov-Arnold (KAN) et les technologies U-Net. Ces modèles ont été conçus pour améliorer la précision de la segmentation en tirant parti des architectures avancées en apprentissage profond durant mon stage a 3D-SMART-FACTORY
 <h1 align='center'>UNetKAN</h1>
 
 ### This is a warehouse for UNetKAN-Pytorch-model, can be used to train your IRM-image-dataset for segmentation tasks.
