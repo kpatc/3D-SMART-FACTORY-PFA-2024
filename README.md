@@ -14,11 +14,13 @@ This repository contains two 3D segmentation models: 3DUnet and 3DUnetKAN, devel
 
 ## Project Structure
 ```
-├── datasets: Load datasets
-    ├── train
-    ├── test
-├── models: UNetKAN Model
-    ├── IRM_Preprocesing_basic_model.ipynb: Construct UNet model
-    ├── Unet_With_KANLayers.ipynb: Construct UNetKAN  model
-├── requirement.txt
-
+├── 3DSPFA
+    ├── data: Load datasets
+        ├── train
+        ├── test
+    ├── Model: Unet & UNetKAN Model
+        ├── IRM_Preprocesing_basic_model.ipynb: Construct UNet model
+        ├── Unet_With_KANLayers.ipynb: Construct UNetKAN  model
+    ├── requirement.txt
+├── README.md
+├── LICENSE
